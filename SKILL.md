@@ -1,6 +1,6 @@
 ---
 name: exam-ready
-description: >
+description:
   Activate this skill when a student provides study material (PDF or pasted notes)
   and a syllabus, and wants to prepare for an exam. Extracts key definitions,
   points, keywords, diagrams, exam-ready sentences, and practice questions
@@ -15,7 +15,7 @@ and a syllabus, and wants to prepare for an exam.
 ## What this skill does
 
 For each syllabus topic, extract from the provided material:
-- What it is (1 line definition — exam-ready)
+- What it is (1-line definition — exam-ready)
 - 3–5 key points an examiner expects
 - Important keywords to use in the answer (bold them)
 - Any important diagram or figure — describe what it shows in 2 lines
