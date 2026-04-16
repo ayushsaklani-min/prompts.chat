@@ -1,10 +1,6 @@
 ---
 name: exam-ready
-description:
-  Activate this skill when a student provides study material (PDF or pasted notes)
-  and a syllabus, and wants to prepare for an exam. Extracts key definitions,
-  points, keywords, diagrams, exam-ready sentences, and practice questions
-  strictly from the provided material.
+description: Activate this skill when a student provides study material (PDF or pasted notes) and a syllabus, and wants to prepare for an exam. Extract key definitions, points, keywords, diagrams, exam-ready sentences, and practice questions strictly from the provided material.
 ---
 
 # exam-ready
